@@ -33,25 +33,18 @@ The **Part-3** was mostly dedicated for **Reviews** data where I wanted to analy
 Finally in **Part-4**, i joined busines and Reviews dataset with the User dataset. Then few relevant analysis was conducted with the massive joined dataset. 
 
 
-##  Amazon S3 Details
-
-The JSON files were uploaded in below S3 bucket:
-
-<img src = "Amazon S3 Details.png" width=1000>
-
-
 ##  Amazon EMR Cluster Configuration
 
 The folowing details were used to create the EMR cluster.
 
-<img src = "AWS EMR Cluster Configuration.png" width=1000>
+![cluster_configuration](assets/cluster_configuration.png)
 
 
 ##  Notebook Configuration
 
 The Pyspark Jupyter notebook was configured like this:
 
-<img src = "Notebook Configuration.png" width=1000>
+![notebook_configuration](assets/notebook_configuration.png)
 
 
 ## References
